@@ -26,4 +26,5 @@ Objectives for this course included:
 * Matlab
 * Fortran
 
-<img src="jupyter_note_book_supported_languages.png" />
+<img src="jupyter_note_book_supported_languages.png"  alt="from https://www.dataquest.io/blog/jupyter-notebook-tutorial"/>
+
