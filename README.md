@@ -39,6 +39,7 @@ From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 
 ## Start Jupyter Notebook with Anaconda Navigator - click on the Jupyter Notebook tab
 <img src="jupyter_on_anaconda.png" />
+
 * For Macs users, if going through mini conda 
   - From Finder, goto the Applications Folder
   - Select miniconda3 
@@ -48,3 +49,5 @@ From https://www.dataquest.io/blog/jupyter-notebook-tutorial
   - Goto Start
   - Then there should be a menu for Anaconda - open this
   - Click on Jupyter 
+
+<img src="anaconda_jupyter_windows10.png" />
