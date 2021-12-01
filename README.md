@@ -66,3 +66,7 @@ Figure 4: Example Python Jupyter Notebook
 While we typically work with Jupyter Notebook via a web browser, there are other tools that we can use to interface with Jupyter Notebook.
 * Visual Studio Code (https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 * Spyder IDE (https://github.com/spyder-ide/spyder-notebook) - Spyder IDE is an integrated development environment for Python (like what R Studio is for R)
+
+## Sharing Jupyter Notebook with collaborators and other researchers
+* Github (static)
+* Binder (others can actually run the codes; https://mybinder.org/)
