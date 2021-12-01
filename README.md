@@ -53,14 +53,16 @@ Figure 1: From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 <img src="anaconda_jupyter_windows10.png" />
 Figure 2: Starting Jupyter on Windows PC
 
-## Jupyter Notebook starts in a web browser. Figure 3 and Figure 4 show examples of R and Python Jupyter Notebooks.
+## Figure 3 and Figure 4 show examples of R and Python Jupyter Notebooks.
 
-<p>
 <img src="jupyte_r_notebook_example.png" />
 Figure 3: Example R Jupyter Notebook
-</p>
 
-<p>
 <img src="jupyter_python_notebook_example.png" />
 Figure 4: Example Python Jupyter Notebook
 </p>
+
+## Other ways to inferface with Jupyter Notebook
+While we typically work with Jupyter Notebook via a web browser, there are other tools that we can use to interface with Jupyter Notebook.
+* Visual Studio Code (https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+* Spyder IDE (https://github.com/spyder-ide/spyder-notebook) - Spyder IDE is an integrated development environment for Python (like what R Studio is for R)
