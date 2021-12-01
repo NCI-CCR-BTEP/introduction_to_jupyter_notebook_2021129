@@ -70,3 +70,8 @@ While we typically work with Jupyter Notebook via a web browser, there are other
 ## Sharing Jupyter Notebook with collaborators and other researchers
 * Github (static)
 * Binder (others can actually run the codes; https://mybinder.org/)
+
+## Files in this repository
+* Requirements.txt
+  - Contains required packages for the Python portion of the demo Jupyter Notebook. 
+  - When loading the demo Jupyter Notebook to Binder, this file is needed so that the appropriate packages will be installed
