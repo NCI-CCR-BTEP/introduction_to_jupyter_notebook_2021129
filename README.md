@@ -7,3 +7,21 @@ Objectives for this course included:
 * Becoming familiar with the Jupyter Notebook interface and working in Jupyter Notebook
 * Getting to know methods for sharing Jupyter Notebook
 
+
+## Jupyter Notebook is used for the following
+* Documentation of data analysis
+  - Text
+  - Images
+  - Equations
+  - Links
+  - Code
+* Allows for sharing of data analyses
+* Facilitate data analysis reproducibility
+
+## Jupyter Note supports many languages
+* Python
+* R
+* Julia
+* C++
+* Matlab
+* Fortran
