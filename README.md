@@ -16,7 +16,11 @@ Objectives for this course included:
   - Links
   - Code
 * Allows for sharing of data analyses
-* Facilitate data analysis reproducibility
+* Facilitate data analysis reproducibility. Figure 1 adapted from Rule et al (https://arxiv.org/pdf/1810.08055.pdf) highlights the work flow for reproducible analysis.
+
+<img src="reproducible_analysis_workflow.png" />
+Figure1: Reproducible analysis workflow
+
 
 ## Jupyter Note supports many languages
 * Python
@@ -27,7 +31,7 @@ Objectives for this course included:
 * Fortran
 
 <img src="jupyter_note_book_supported_languages.png" />
-Figure 1: From https://www.dataquest.io/blog/jupyter-notebook-tutorial
+Figure 2: From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 
 ## Ways to access Jupyter Notebook
 * NIH HPC (Biowulf; https://hpc.nih.gov/apps/jupyter.html)
@@ -39,6 +43,7 @@ Figure 1: From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 
 ## Start Jupyter Notebook with Anaconda Navigator - click on the Jupyter Notebook tab
 <img src="jupyter_on_anaconda.png" />
+Figure 3: Starting Jupyter Notebook from Anaconda Navigator
 
 * For Macs users, if going through mini conda 
   - From Finder, goto the Applications Folder
@@ -48,18 +53,18 @@ Figure 1: From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 * In Windows (I have a Windows 10 PC)
   - Goto Start
   - Then there should be a menu for Anaconda - open this
-  - Click on Jupyter-Notebook
+  - Click on Jupyter-Notebook (see Figure 4)
 
 <img src="anaconda_jupyter_windows10.png" />
-Figure 2: Starting Jupyter on Windows PC
+Figure 4: Starting Jupyter on Windows PC
 
-## Figure 3 and Figure 4 show examples of R and Python Jupyter Notebooks.
+## Figure 5 and Figure 6 show examples of R and Python Jupyter Notebooks.
 
 <img src="jupyte_r_notebook_example.png" />
-Figure 3: Example R Jupyter Notebook
+Figure 5: Example R Jupyter Notebook
 
 <img src="jupyter_python_notebook_example.png" />
-Figure 4: Example Python Jupyter Notebook
+Figure 6: Example Python Jupyter Notebook
 </p>
 
 ## Other ways to inferface with Jupyter Notebook
@@ -70,6 +75,7 @@ While we typically work with Jupyter Notebook via a web browser, there are other
 ## Sharing Jupyter Notebook with collaborators and other researchers
 * Github (static)
 * Binder (others can actually run the codes; https://mybinder.org/)
+* Other tools for sharing Jupyter Notebooks exist (see table 1 in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7359270/)
 
 ## Files in this repository
 * Requirements.txt
