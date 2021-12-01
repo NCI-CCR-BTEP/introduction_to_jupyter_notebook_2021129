@@ -27,7 +27,7 @@ Objectives for this course included:
 * Fortran
 
 <img src="jupyter_note_book_supported_languages.png" />
-From https://www.dataquest.io/blog/jupyter-notebook-tutorial
+Figure 1: From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 
 ## Ways to access Jupyter Notebook
 * NIH HPC (Biowulf; https://hpc.nih.gov/apps/jupyter.html)
@@ -48,6 +48,15 @@ From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 * In Windows (I have a Windows 10 PC)
   - Goto Start
   - Then there should be a menu for Anaconda - open this
-  - Click on Jupyter 
+  - Click on Jupyter-Notebook
 
 <img src="anaconda_jupyter_windows10.png" />
+Figure 2: Starting Jupyter on Windows PC
+
+## Jupyter Notebook starts in a web browser. Figure 3 and Figure 4 show examples of R and Python Jupyter Notebooks.
+
+<img src="jupyte_r_notebook_example.png" />
+Figure 3: Example R Jupyter Notebook
+
+<img src="jupyter_python_notebook_example.png" />
+Figure 4: Example Python Jupyter Notebook
