@@ -29,3 +29,12 @@ Objectives for this course included:
 <img src="jupyter_note_book_supported_languages.png" />
 From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 
+## Ways to access Jupyter Notebook
+* NIH HPC (Biowulf; https://hpc.nih.gov/apps/jupyter.html)
+* Anaconda distributions (allows Jupyter Notebook to be use locally)
+  - https://www.anaconda.com/
+  - https://docs.conda.io/en/latest/miniconda.html 
+* Google Colab	
+* Cloud computing services
+
+
