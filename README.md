@@ -31,10 +31,20 @@ From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 
 ## Ways to access Jupyter Notebook
 * NIH HPC (Biowulf; https://hpc.nih.gov/apps/jupyter.html)
-* Anaconda distributions (allows Jupyter Notebook to be use locally)
+* Anaconda or mini conda distributions (allows Jupyter Notebook to be use locally)
   - https://www.anaconda.com/
   - https://docs.conda.io/en/latest/miniconda.html 
 * Google Colab	
 * Cloud computing services
 
-
+## Start Jupyter Notebook with Anaconda Navigator - click on the Jupyter Notebook tab
+<img src="jupyter_on_anaconda.png" />
+* For Macs users, if going through mini conda 
+  - From Finder, goto the Applications Folder
+  - Select miniconda3 
+  - Goto the bin folder
+  - Click on jupyter-notebook and then copy and paste the URL that shows up in the terminal to a browser
+* In Windows (I have a Windows 10 PC)
+  - Goto Start
+  - Then there should be a menu for Anaconda - open this
+  - Click on Jupyter 
