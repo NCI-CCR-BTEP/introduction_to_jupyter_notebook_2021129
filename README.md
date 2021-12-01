@@ -19,7 +19,7 @@ Objectives for this course included:
 * Facilitate data analysis reproducibility. Figure 1 adapted from Rule et al (https://arxiv.org/pdf/1810.08055.pdf) highlights the work flow for reproducible analysis.
 
 <img src="reproducible_analysis_workflow.png" />
-Figure1: Reproducible analysis workflow
+Figure 1: Reproducible analysis workflow
 
 
 ## Jupyter Note supports many languages
