@@ -25,3 +25,5 @@ Objectives for this course included:
 * C++
 * Matlab
 * Fortran
+
+<img src="jupyter_note_book_supported_languages.png" />
