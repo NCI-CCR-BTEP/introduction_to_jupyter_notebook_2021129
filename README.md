@@ -55,8 +55,12 @@ Figure 2: Starting Jupyter on Windows PC
 
 ## Jupyter Notebook starts in a web browser. Figure 3 and Figure 4 show examples of R and Python Jupyter Notebooks.
 
+<p>
 <img src="jupyte_r_notebook_example.png" />
 Figure 3: Example R Jupyter Notebook
+</p>
 
+<p>
 <img src="jupyter_python_notebook_example.png" />
 Figure 4: Example Python Jupyter Notebook
+</p>
