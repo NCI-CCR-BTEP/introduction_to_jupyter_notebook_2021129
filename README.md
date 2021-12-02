@@ -1,4 +1,5 @@
-[![Binder](https://hub.gke2.mybinder.org/user/nci-ccr-btep-in-otebook_2021129-v7o7rkxb/lab)
+[![Binder](https://mybinder.org/v2/gh/NCI-CCR-BTEP/introduction_to_jupyter_notebook_2021129/HEAD![image](https://user-images.githubusercontent.com/26661527/144493449-ef2e0903-63f3-4008-b69d-757c15758e02.png)
+)
 
 # Publishing your data analysis story with Jupyter Notebook
 This GitHub page contains material for an introduction to Jupyter Notebook course taught by the Bioinformatics Training and Education Program (BTEP) at National Institutes of Health.
