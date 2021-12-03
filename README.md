@@ -83,3 +83,8 @@ While we typically work with Jupyter Notebook via a web browser, there are other
 * Requirements.txt
   - Contains required packages for the Python portion of the demo Jupyter Notebook. 
   - When loading the demo Jupyter Notebook to Binder, this file is needed so that the appropriate packages will be installed
+
+## Here we deploy our Jupyter Notebook, introduction_to_jupyter_2021129_draft1.ipynb to Binder as an interactive. There several files that we need to accomplish this.
+* runtime.txt - tells Binder to install R
+* requirements.txt - lists Python packages that Binder will need to install
+* install.R - lists R packages that Binder will need to install
