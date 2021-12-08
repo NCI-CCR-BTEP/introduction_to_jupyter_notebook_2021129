@@ -51,7 +51,7 @@ Figure 3: Starting Jupyter Notebook from Anaconda Navigator
   - Goto the bin folder
   - Click on jupyter-notebook and then follow the instructions that show up in the command line terminal to open
 
-<div style=“width:image width px; font-size:80%; text-align:center;”>img src="open_jupyter_mac_1.png" /></div>
+<div style=“width:image width px; font-size:80%; text-align:center;”><img src="open_jupyter_mac_1.png" /></div>
 Figure 4: Starting Jupyter on Mac - part 1
 
 <img src="open_jupyter_mac_2.png" />
