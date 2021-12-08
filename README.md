@@ -9,7 +9,6 @@ Objectives for this course included:
 * Becoming familiar with the Jupyter Notebook interface and working in Jupyter Notebook
 * Getting to know methods for sharing Jupyter Notebook
 
-
 ## Jupyter Notebook is used for the following
 * Documentation of data analysis
   - Text
@@ -22,7 +21,6 @@ Objectives for this course included:
 
 <img src="reproducible_analysis_workflow.png" />
 Figure 1: Reproducible analysis workflow
-
 
 ## Jupyter Note supports many languages
 * Python
@@ -53,7 +51,7 @@ Figure 3: Starting Jupyter Notebook from Anaconda Navigator
   - Goto the bin folder
   - Click on jupyter-notebook and then follow the instructions that show up in the command line terminal to open
 
-<img src="open_jupyter_mac_1.png" />
+<div style=“width:image width px; font-size:80%; text-align:center;”>img src="open_jupyter_mac_1.png" /></div>
 Figure 4: Starting Jupyter on Mac - part 1
 
 <img src="open_jupyter_mac_2.png" />
