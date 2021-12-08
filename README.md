@@ -62,6 +62,7 @@ Figure 5: Starting Jupyter on Mac - part 2
 <img src="open_jupyter_mac_3.png" />
 Figure 6: Starting Jupyter on Mac - follow instructions on the bottom of the command line terminal that opens
 
+
 * In Windows (I have a Windows 10 PC) - see Figure 7
   - Goto Start
   - Then there should be a menu for Anaconda - open this
