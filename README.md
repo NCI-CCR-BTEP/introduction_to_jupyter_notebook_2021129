@@ -22,9 +22,8 @@ Objectives for this course included:
   - see Figure 1 from [Freedman et al 2015 PLOS Biology: The Economics of Reproducibility in
 Preclinical Research](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1002165&type=printable) for a percentage breakdown of the different sources leading to irreproducibility in research
 
-<img src="jupyter_note_book_supported_languages.png" />
-
-
+<img src="Freedman_et_al_plos_biology_2015_figure2.png" />
+Figure 1: Breakdown of sources contributing to research irreproducibility (adapted from Freedman et al, PLOS Biology, 2015)
 
 ## Jupyter Note supports many languages (see Figure 2)
 * Python
