@@ -18,7 +18,7 @@ Objectives for this course included:
   - Code
 * Allows for sharing of data analyses
 * Facilitate data analysis reproducibility
-  - [here is an informative webinar on why reproducible analysis is important](https://youtu.be/n5qDeCsZDrw)
+  - [here is an informative webinar on why reproducible in high throughput biology is important](https://youtu.be/n5qDeCsZDrw)
   - see Figure 1 from [Freedman et al 2015 PLOS Biology: The Economics of Reproducibility in
 Preclinical Research](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1002165&type=printable) for a percentage breakdown of the different sources leading to irreproducibility in research
 
