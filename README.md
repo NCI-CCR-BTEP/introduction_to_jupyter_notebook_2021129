@@ -17,9 +17,16 @@ Objectives for this course included:
   - Links
   - Code
 * Allows for sharing of data analyses
-* Facilitate data analysis reproducibility - [here is an informative webinar on why reproducible analysis is important](https://youtu.be/n5qDeCsZDrw)
+* Facilitate data analysis reproducibility
+  - [here is an informative webinar on why reproducible analysis is important](https://youtu.be/n5qDeCsZDrw)
+  - see Figure 1 from [Freedman et al 2015 PLOS Biology: The Economics of Reproducibility in
+Preclinical Research](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1002165&type=printable) for a percentage breakdown of the different sources leading to irreproducibility in research
 
-## Jupyter Note supports many languages (see Figure 1)
+<img src="jupyter_note_book_supported_languages.png" />
+
+
+
+## Jupyter Note supports many languages (see Figure 2)
 * Python
 * R
 * Julia
@@ -29,7 +36,7 @@ Objectives for this course included:
 * Perl
 
 <img src="jupyter_note_book_supported_languages.png" />
-Figure 1: From https://www.dataquest.io/blog/jupyter-notebook-tutorial
+Figure 2: From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 
 ## Ways to access Jupyter Notebook
 * NIH HPC (Biowulf; https://hpc.nih.gov/apps/jupyter.html)
@@ -40,22 +47,22 @@ Figure 1: From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 
 ## Start Jupyter Notebook with Anaconda Navigator - click on the Jupyter Notebook tab
 <img src="jupyter_on_anaconda.png" />
-Figure 2: Starting Jupyter Notebook from Anaconda Navigator
+Figure 3: Starting Jupyter Notebook from Anaconda Navigator
 
-* For Macs users, if going through mini conda - see Figure 3, Figure 4, and Figure 5
+* For Macs users, if going through mini conda - see Figure 4, Figure 5, and Figure 6
   - From Finder, goto the Applications Folder
   - Select miniconda3 
   - Goto the bin folder
   - Click on jupyter-notebook and then follow the instructions that show up in the command line terminal to open
 
 <image src="open_jupyter_mac_1.png" />
-Figure 3: Starting Jupyter on Mac - part 1
+Figure 4: Starting Jupyter on Mac - part 1
 
 <img src="open_jupyter_mac_2.png" />
-Figure 4: Starting Jupyter on Mac - part 2
+Figure 5: Starting Jupyter on Mac - part 2
 
 <img src="open_jupyter_mac_3.png" />
-Figure 5: Starting Jupyter on Mac - follow instructions on the bottom of the command line terminal that opens
+Figure 6: Starting Jupyter on Mac - follow instructions on the bottom of the command line terminal that opens
 
 
 * In Windows (I have a Windows 10 PC) - see Figure 6
