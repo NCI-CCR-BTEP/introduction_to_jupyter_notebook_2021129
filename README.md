@@ -59,13 +59,16 @@ Figure 4: Starting Jupyter on Mac - part 1
 <img src="open_jupyter_mac_2.png" />
 Figure 5: Starting Jupyter on Mac - part 2
 
-* In Windows (I have a Windows 10 PC) - see Figure 6
+<img src="open_jupyter_mac_3.png" />
+Figure 6: Starting Jupyter on Mac - follow instructions on the bottom of the command line terminal that opens
+
+* In Windows (I have a Windows 10 PC) - see Figure 7
   - Goto Start
   - Then there should be a menu for Anaconda - open this
   - Click on Jupyter-Notebook
 
 <img src="anaconda_jupyter_windows10.png" />
-Figure 6: Starting Jupyter on Windows PC
+Figure 7: Starting Jupyter on Windows PC
 
 ## Other ways to inferface with Jupyter Notebook
 While we typically work with Jupyter Notebook via a web browser, there are other tools that we can use to interface with Jupyter Notebook.
