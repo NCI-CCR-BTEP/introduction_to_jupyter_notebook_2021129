@@ -31,6 +31,7 @@ Figure 1: Reproducible analysis workflow
 * C++
 * Matlab
 * Fortran
+* Perl
 
 <img src="jupyter_note_book_supported_languages.png" />
 Figure 2: From https://www.dataquest.io/blog/jupyter-notebook-tutorial
@@ -78,11 +79,6 @@ While we typically work with Jupyter Notebook via a web browser, there are other
 * Github (static)
 * Binder (others can actually run the codes; https://mybinder.org/)
 * Other tools for sharing Jupyter Notebooks exist (see table 1 in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7359270/)
-
-## Files in this repository
-* Requirements.txt
-  - Contains required packages for the Python portion of the demo Jupyter Notebook. 
-  - When loading the demo Jupyter Notebook to Binder, this file is needed so that the appropriate packages will be installed
 
 ## Here we deploy our Jupyter Notebook, introduction_to_jupyter_2021129_draft1.ipynb to Binder as an interactive. There several files that we need to accomplish this. Click on each of the files to see the content.
 * runtime.txt - tells Binder to install R
