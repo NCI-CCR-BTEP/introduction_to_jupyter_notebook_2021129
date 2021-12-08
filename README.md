@@ -75,7 +75,7 @@ While we typically work with Jupyter Notebook via a web browser, there are other
 * Spyder IDE (https://github.com/spyder-ide/spyder-notebook) - Spyder IDE is an integrated development environment for Python (like what R Studio is for R)
 
 ## Example of Jupyter Notebook written for single cell RNA seq analysis
-[Example Jupyter Notebook for single cell RNA seq]https://nbviewer.org/github/theislab/single-cell-tutorial/blob/master/latest_notebook/Case-study_Mouse-intestinal-epithelium_1906.ipynb
+[Example Jupyter Notebook for single cell RNA seq](https://nbviewer.org/github/theislab/single-cell-tutorial/blob/master/latest_notebook/Case-study_Mouse-intestinal-epithelium_1906.ipynb)
 
 ## Sharing Jupyter Notebook with collaborators and other researchers
 * Github (static)
