@@ -59,7 +59,7 @@ Figure 4: Starting Jupyter on Mac - part 1
 <img src="open_jupyter_mac_2.png" />
 Figure 5: Starting Jupyter on Mac - part 2
 
-<img src="open_jupyter_mac_3.png" />
+<br><img src="open_jupyter_mac_3.png" /></br>
 Figure 6: Starting Jupyter on Mac - follow instructions on the bottom of the command line terminal that opens
 
 
