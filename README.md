@@ -41,8 +41,7 @@ Figure 2: From https://www.dataquest.io/blog/jupyter-notebook-tutorial
 * Anaconda or mini conda distributions (allows Jupyter Notebook to be use locally)
   - https://www.anaconda.com/
   - https://docs.conda.io/en/latest/miniconda.html 
-* Google Colab	
-* Cloud computing services
+* Google Colab
 
 ## Start Jupyter Notebook with Anaconda Navigator - click on the Jupyter Notebook tab
 <img src="jupyter_on_anaconda.png" />
