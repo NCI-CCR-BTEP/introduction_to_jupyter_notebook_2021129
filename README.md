@@ -60,15 +60,6 @@ Figure 3: Starting Jupyter Notebook from Anaconda Navigator
 <img src="anaconda_jupyter_windows10.png" />
 Figure 4: Starting Jupyter on Windows PC
 
-## Figure 5 and Figure 6 show examples of R and Python Jupyter Notebooks.
-
-<img src="jupyte_r_notebook_example.png" />
-Figure 5: Example R Jupyter Notebook
-
-<img src="jupyter_python_notebook_example.png" />
-Figure 6: Example Python Jupyter Notebook
-</p>
-
 ## Other ways to inferface with Jupyter Notebook
 While we typically work with Jupyter Notebook via a web browser, there are other tools that we can use to interface with Jupyter Notebook.
 * Visual Studio Code (https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
