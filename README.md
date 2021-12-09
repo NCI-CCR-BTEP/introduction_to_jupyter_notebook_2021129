@@ -23,7 +23,7 @@ Objectives for this course included:
 Preclinical Research](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1002165&type=printable) for a percentage breakdown of the different sources leading to irreproducibility in research
 
 <img src="Freedman_et_al_plos_biology_2015_figure2.png" />
-Figure 1: Breakdown of sources contributing to research irreproducibility (adapted from Freedman et al, PLOS Biology, 2015)
+Figure 1: Breakdown of sources contributing to research irreproducibility (adapted from Freedman et al, PLOS Biology, 2015)\n
 
 <iframe width="420" height="315"
 src="https://youtu.be/n5qDeCsZDrw">
