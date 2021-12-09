@@ -25,6 +25,10 @@ Preclinical Research](https://journals.plos.org/plosbiology/article/file?id=10.1
 <img src="Freedman_et_al_plos_biology_2015_figure2.png" />
 Figure 1: Breakdown of sources contributing to research irreproducibility (adapted from Freedman et al, PLOS Biology, 2015)
 
+<iframe width="420" height="315"
+src="https://youtu.be/n5qDeCsZDrw">
+</iframe>
+
 ## Jupyter Note supports many languages (see Figure 2)
 * Python
 * R
